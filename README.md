@@ -14,11 +14,6 @@
 
 ---
 
-## 🖼️ Vista previa
-
-![Vista previa del proyecto](https://user-images.githubusercontent.com/your-image-url/vista-previa.png)
-
----
 
 ## 🧩 Tecnologías utilizadas
 
