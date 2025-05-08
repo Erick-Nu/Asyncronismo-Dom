@@ -24,7 +24,3 @@
 
 ---
 
-## 🛠️ Estructura del código
-
-```js
-function showLoading(show)
