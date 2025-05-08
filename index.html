@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fake Store API - Productos</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Productos de la Tienda (Fake Store API)</h1>
+        <div class="search-bar">
+        <input type="text" id="search-input" placeholder="Buscar producto..." />
+        <button onclick="searchProduct()">Buscar</button>
+        </div>
+        <div id="product-list"></div>
+    </div>
+
+    <div class="dialog" id="loading-dialog">
+        <div class="dialog-box">Cargando productos...</div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
